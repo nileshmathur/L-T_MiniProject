@@ -1,1 +1,1 @@
-# L-T_MiniProject
+# Calculating Determinant of a Matrix
