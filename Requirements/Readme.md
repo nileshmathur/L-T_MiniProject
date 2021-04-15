@@ -21,7 +21,7 @@ As far as the project is well built and all the requirements met the cost can be
 
 
 ## SWOT Analysis
-![SWOT-Sample]()
+![SWOT Sample](https://github.com/nileshmathur/L-T_MiniProject/blob/main/Requirements/SWOT-Analysis.PNG)
 
 
 
