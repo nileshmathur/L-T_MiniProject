@@ -53,7 +53,16 @@ HR_03 | Pentium IV Processor | Implemented
 HR_04 | RAM(512MB) | Implemented
 HR_05 | Hard Disk(2GB) | Implemented
 
-### Low Level Requirements
+### Low Level Requirements ###
+
+ID  |  Description   |  Status
+---- | -------------- | --------- 
+LR_01 | Using different fucntions like s2() ,s3() etc | Implemented
+LR_02 | Using Gaussian Elimination(),checkElements() etc | Implemented
+LR_03 | Functions for finding inverse of matrix | Future
+LR_04 | Functions for solving complex linear equations | Future
+LR_05 | Function for reducing Matrix into Reduced Row Echloen Form instead of Row Echloen Form | Future
+
 
 
 
