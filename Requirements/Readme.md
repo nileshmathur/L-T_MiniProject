@@ -46,6 +46,7 @@ System design is a solution for “HOW TO” approach to the creation of a new s
 ### High Level Requirements ###
 
 ID  |  Description   |  Status
+---- | -------------- | ---------  
 HR_01 | Operating System (Windows 10/Linux) | Implemented
 
 
