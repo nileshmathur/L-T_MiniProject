@@ -28,6 +28,17 @@ As far as the project is well built and all the requirements met the cost can be
 The project can be used almost by all.Everyone who are working on complex operations like finding inverse of matrix,solving complex linear equations and capturing how linear transformation change area or volume, and changing variables in integrals etc.
 
 ### What:-  ###
+This can calculate the determinant of matrix quickly.Consumer just needs to input the matrix and this will calculate the determinant of matrix which can be used for different applications.
+
+### When:-  ###
+The can be used at the time of solving the calculations and get the results for basic and complex problems. The result will be obtained quickly.
+
+### Where ###:-
+In all the domains it can be used.As this is easily usable and user-friendly, it can be also be easily implemented on the mobile system.It will meet all the requirements of the user.
+
+### How:-  ###
+
+System design is a solution for “HOW TO” approach to the creation of a new system. It translates system requirements into ways by which they can be made operational. It is a translational from a user oriented document to a document oriented programmers. For that, it provides the understanding and procedural details necessary for the implementation. Here UML diagrams are used to supplement the working of the new system. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
 
 
 
