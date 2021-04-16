@@ -20,8 +20,15 @@ As far as the project is well built and all the requirements met the cost can be
     * CheckAndSwap() function is inside the GaussianElimination() function because if some element of diagonal is 0 needs to swap the ij row with another whose the element is different from 0 (!=0) in ij-column AND changing the sign of determinant if swap.
 
 
-## SWOT Analysis
-![SWOT Sample](https://github.com/nileshmathur/L-T_MiniProject/blob/main/Requirements/SWOT-Analysis.PNG)
+## SWOT Analysis ##
+![SWOT-Sample](https://github.com/nileshmathur/L-T_MiniProject/blob/main/Requirements/SWOT-Analysis.PNG)
+
+## 4W's and 1'H ##
+### Who:- ###
+The project can be used almost by all.Everyone who are working on complex operations like finding inverse of matrix,solving complex linear equations and capturing how linear transformation change area or volume, and changing variables in integrals etc.
+
+### What:-  ###
+
 
 
 
