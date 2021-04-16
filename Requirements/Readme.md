@@ -53,7 +53,7 @@ HR_03 | Pentium IV Processor | Implemented
 HR_04 | RAM(512MB) | Implemented
 HR_05 | Hard Disk(2GB) | Implemented
 
-
+### Low Level Requirements
 
 
 
